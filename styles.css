@@ -1,4 +1,4 @@
-/* Updated styles.css to improve layout, table, and footer styling */
+/* Refined styles.css to match the Trello API style screenshot */
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -11,30 +11,34 @@ body {
 main {
   max-width: 900px;
   margin: 3rem auto;
-  padding: 2rem;
-  background-color: #fff;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 2.5rem;
+  background-color: #ffffff;
   border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
 }
 
 h1, h2, h3 {
-  color: #1a1a1a;
+  color: #003366;
+  margin-top: 1.5rem;
 }
 
 h1 {
-  font-size: 2.2rem;
-  border-bottom: 2px solid #dee2e6;
-  padding-bottom: 0.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
 }
 
 h2 {
-  font-size: 1.5rem;
-  margin-top: 2rem;
+  font-size: 1.4rem;
+  border-bottom: 2px solid #0d6efd;
+  padding-bottom: 0.25rem;
+  margin-top: 2.5rem;
 }
 
 h3 {
-  font-size: 1.2rem;
-  margin-top: 1.5rem;
+  font-size: 1.1rem;
+  color: #003366;
+  font-weight: 600;
 }
 
 ul, ol {
@@ -43,34 +47,37 @@ ul, ol {
 
 blockquote {
   background: #e9f7ef;
-  border-left: 4px solid #28a745;
+  border-left: 4px solid #198754;
   padding: 1rem;
   margin: 2rem 0;
   font-style: italic;
+  color: #155724;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   font-size: 0.95rem;
   background-color: #ffffff;
+  border: 1px solid #dee2e6;
 }
 
 table thead {
-  background-color: #007bff;
+  background-color: #00458a;
   color: white;
+  font-weight: 600;
 }
 
 table th,
 table td {
-  padding: 0.75rem;
+  padding: 0.85rem;
   text-align: left;
   border: 1px solid #dee2e6;
 }
 
 table tbody tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #f8f9fc;
 }
 
 footer {
@@ -94,12 +101,12 @@ footer a:hover {
 .nav-links {
   display: flex;
   justify-content: space-between;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   font-size: 0.95rem;
 }
 
 .nav-links a {
-  color: #007bff;
+  color: #0d6efd;
   text-decoration: none;
   font-weight: 500;
 }
