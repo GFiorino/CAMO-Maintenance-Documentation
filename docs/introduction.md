@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Introduction – CAMO Maintenance Docs</title>
-  <link rel="stylesheet" href="../styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CAMO Maintenance Documentation</title>
+  <link rel="stylesheet" href="../styles.css" />
 </head>
 <body>
   <main>
     <h1>Introduction</h1>
-
-   <h2>Purpose of This Guide</h2>
+   
+  <h2>Purpose of This Guide</h2>
     <p>This guide provides an overview of key responsibilities and procedures related to the role of a <strong>CAMO Technical Administrator</strong>. It simulates real-world documentation used in a Continuing Airworthiness Management Organization (CAMO), aligned with <strong>EASA Part-M</strong> and <strong>Part-CAMO</strong> standards.</p>
 
    <h3>Intended Audience:</h3>
