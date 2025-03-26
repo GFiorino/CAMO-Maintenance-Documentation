@@ -2,72 +2,49 @@
 
 ## Purpose of This Guide
 
-This guide provides an overview of key responsibilities and procedures related to the role of a **CAMO Technical Administrator**. It is written with the aim of simulating real-world internal documentation within a Continuing Airworthiness Management Organization (CAMO), following EASA Part-M and Part-CAMO standards.
+This guide provides an overview of key responsibilities and procedures related to the role of a **CAMO Technical Administrator**. It simulates real-world documentation used in a Continuing Airworthiness Management Organization (CAMO), aligned with **EASA Part-M** and **Part-CAMO** standards.
 
-It is designed for:
-- New or aspiring CAMO professionals
+### Intended Audience:
+- CAMO professionals and technical administrators
 - Technical writers transitioning into aviation
-- Aviation companies evaluating documentation skills in regulated environments
+- Aviation companies evaluating tech writing portfolios
 
 ---
 
 ## What Is CAMO?
 
-**CAMO** stands for **Continuing Airworthiness Management Organization**. It is responsible for ensuring that aircraft remain airworthy through ongoing monitoring, planning, and regulatory compliance.
+**CAMO** stands for **Continuing Airworthiness Management Organization**. It ensures that aircraft remain airworthy through regular inspections, documentation, and compliance with safety regulations.
 
-CAMOs are typically part of:
+Typical CAMO environments:
 - Airlines
 - Business jet operators
-- Aircraft leasing companies
-- Maintenance Repair Organizations (MROs)
-
-CAMO tasks involve:
-- Keeping maintenance programs up to date
-- Tracking service bulletins (SBs) and airworthiness directives (ADs)
-- Managing aircraft technical records
-- Supporting audits and regulatory inspections
+- Leasing companies
+- MROs (Maintenance, Repair, and Overhaul organizations)
 
 ---
 
-## Regulatory Context
+## Key Responsibilities in CAMO
 
-CAMOs operate under **EASA regulations**, primarily:
-- **Part-M**: Covers the continuing airworthiness of aircraft and components.
-- **Part-CAMO**: Defines the approval requirements for organizations managing airworthiness.
-
-These rules ensure:
-- Aircraft are maintained correctly and on time
-- All regulatory documentation is accurate, complete, and traceable
-- Airworthiness Review Certificates (ARC) are issued and renewed properly
+- Track and manage **aircraft maintenance programs (AMP)**
+- Log and monitor **Airworthiness Directives (ADs)** and **Service Bulletins (SBs)**
+- Manage **technical records**
+- Support **audits and airworthiness reviews**
+- Coordinate with regulatory bodies and maintenance providers
 
 ---
 
-## Role of the CAMO Technical Administrator
+## Documentation Structure
 
-As a CAMO Technical Administrator, your core duties often include:
+This project includes the following sections, each simulating a real-world process:
 
-- Managing technical records for the aircraft fleet
-- Inputting maintenance data and tracking compliance items
-- Coordinating updates to the Aircraft Maintenance Programme (AMP)
-- Monitoring AD/SB compliance
-- Supporting airworthiness reviews and audits
-- Generating status reports and utilization summaries
+1. [Aircraft Entry Into Service](aircraft-entry-into-service.md)
+2. [AMP Update Procedure](amp-update-procedure.md)
+3. [Airworthiness Directive Input](airworthiness-directive-input.md)
+4. [Maintenance Reporting Workflow](maintenance-reporting-workflow.md)
+5. [Audit Preparation Guide](audit-preparation-guide.md)
 
----
-
-## Structure of This Documentation Project
-
-The following sections simulate internal documentation a CAMO admin might use or produce:
-
-1. **Aircraft Entry Into Service**
-2. **AMP Update Procedure**
-3. **Airworthiness Directive Input**
-4. **Maintenance Reporting Workflow**
-5. **Audit Preparation Guide**
-
-Each file is modular, focused, and uses real-world examples (with mock data) to reflect practical tasks.
+Each section includes sample tables, processes, and mock data.
 
 ---
 
-> ⚠️ Disclaimer: This is a fictional documentation sample intended for portfolio and educational purposes only. It is not a substitute for certified regulatory documentation or actual CAMO procedures.
-
+> ⚠️ *This is a fictional sample created for portfolio purposes. It does not represent any specific aircraft or operator.*
