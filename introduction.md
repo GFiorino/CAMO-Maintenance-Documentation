@@ -57,6 +57,17 @@
     </ol>
 
    <p><em>⚠️ This is a fictional sample created for portfolio purposes. It does not represent any specific aircraft or operator.</em></p>
+<div class="nav-links">
+  <a href="index.html">🏠 Back to Index</a>
+  <a href="aircraft-entry-into-service.html">Next →</a>
+</div>
+
+<footer>
+  <p><a href="https://gfiorino.github.io/Technical-Writing-Portfolio/" target="_blank">
+    ← Back to Full Portfolio
+  </a></p>
+</footer>
+   
   </main>
 </body>
 </html>
