@@ -114,3 +114,45 @@ footer a:hover {
 .nav-links a:hover {
   text-decoration: underline;
 }
+
+.floating-menu {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  padding: 1rem 1.5rem;
+  font-size: 0.9rem;
+  z-index: 999;
+  width: 260px;
+}
+
+.floating-menu h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+  color: #003366;
+  font-weight: 600;
+}
+
+.floating-menu ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.floating-menu li {
+  margin-bottom: 0.5rem;
+}
+
+.floating-menu a {
+  text-decoration: none;
+  color: #0d6efd;
+  font-weight: 500;
+}
+
+.floating-menu a:hover {
+  text-decoration: underline;
+}
