@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CAMO Admin Checklist – By Source</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>CAMO Admin Daily QRG – Source Checklist</h1>
+    <p>This checklist helps CAMO Administrators maintain full compliance and data accuracy by tracking inputs based on their origin. Ideal for daily operations, audits, and process standardization.</p>
+
+    <h2>✉️ 1. From Authorities (EASA, FAA, State of Design)</h2>
+    <ul>
+      <li>☑ Have I checked for new <strong>Airworthiness Directives (ADs)</strong>?</li>
+      <li>☑ Have I entered relevant ADs into the Maintenance Tracking System?</li>
+      <li>☑ Are deadlines and applicability details accurate and up to date?</li>
+    </ul>
+
+    <h2>🏢 2. From Manufacturers (OEMs)</h2>
+    <ul>
+      <li>☑ Have I reviewed the latest <strong>Service Bulletins (SBs)</strong>?</li>
+      <li>☑ Have I assessed SB applicability to our aircraft configuration?</li>
+      <li>☑ If the SB includes a <strong>modification</strong>, has it been recorded?</li>
+      <li>☑ Is the SB repetitive or mandatory, and does it require inclusion in the AMP?</li>
+    </ul>
+
+    <h2>📃 3. From Aircraft Technical Logbook</h2>
+    <ul>
+      <li>☑ Have I logged all new <strong>defects</strong> from Tech Logs or PIREPs?</li>
+      <li>☑ Are <strong>MEL/CDL-deferred items</strong> tracked and categorized?</li>
+      <li>☑ Is each defect assigned a clear status: Open / Deferred / Closed?</li>
+    </ul>
+
+    <h2>📊 4. From Flight Ops / Usage Data</h2>
+    <ul>
+      <li>☑ Are <strong>flight hours and cycles</strong> up to date in the system?</li>
+      <li>☑ Have I checked for triggered <strong>AMP tasks</strong> or LLP limits?</li>
+      <li>☑ Are <strong>Life-Limited Part (LLP)</strong> counters and deadlines accurate?</li>
+    </ul>
+
+    <h2>🔧 5. From Line/Base Maintenance</h2>
+    <ul>
+      <li>☑ Have I recorded all <strong>component removals/installations</strong>?</li>
+      <li>☑ Is all <strong>traceability</strong> information (who/what/when/why) archived?</li>
+      <li>☑ Have I updated AMP compliance based on completed work?</li>
+    </ul>
+
+    <h2>📄 6. From Internal CAMO Operations</h2>
+    <ul>
+      <li>☑ Is the <strong>AMP</strong> current and reflecting regulatory updates?</li>
+      <li>☑ Have I created or updated <strong>Work Orders / Work Packages</strong>?</li>
+      <li>☑ Are completed tasks logged with a valid <strong>CRS</strong> (Certificate of Release to Service)?</li>
+      <li>☑ Have I prepared supporting documents for <strong>ARC renewal</strong> or upcoming audits?</li>
+    </ul>
+
+    <footer>
+  <p><strong>Author:</strong> Gianpiero Fiorino</p>
+  <p><a href="https://gfiorino.github.io/Technical-Writing-Portfolio/" target="_blank">← Back to Portfolio</a></p>
+</footer>
