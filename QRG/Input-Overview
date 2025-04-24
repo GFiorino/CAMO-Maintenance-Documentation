@@ -1,0 +1,14 @@
+# 📋 CAMO Admin – Input Overview Table
+
+| **Input**                               | **Description**                                                                 | **Source**                            | **Timeframe Importance**             |
+|----------------------------------------|---------------------------------------------------------------------------------|----------------------------------------|--------------------------------------|
+| **Airworthiness Directive (AD)**       | Mandatory instruction to correct unsafe conditions. Must be complied with.       | EASA / State of Design                 | High (Strict deadline: FH/months)    |
+| **Service Bulletin (SB)**              | Recommended changes/improvements from OEM (optional unless mandated by AD).    | OEM / Manufacturer                     | Medium (Often during next check)     |
+| **Aircraft Maintenance Program (AMP)** | List of repetitive scheduled maintenance tasks for the aircraft.                | CAMO / Type Certificate Holder         | Continuous (FH, FC, calendar-based)  |
+| **Defect Log / Tech Log Entry**        | Report of discrepancies from pilots/maintenance.                               | Flight Crew / Base Maintenance         | High (MEL/CDL timelines apply)       |
+| **MEL/CDL**                            | List of acceptable deferred defects and equipment limitations.                 | Aircraft MEL / EASA                    | High (Defined deferral categories)    |
+| **Component Change / Tracking**        | Installation/removal, part number, traceability of components.                 | Maintenance Crew / Tech Docs           | Medium (Update after each action)     |
+| **LLP Data (Life Limited Parts)**      | Tracks hours/cycles of parts with life limits.                                 | Maintenance / OEM / Tracking System    | High (Mandatory tracking per part)    |
+| **Certificate of Release to Service (CRS)** | Confirms work completed, aircraft airworthy.                               | Licensed Engineer / Maintenance Org    | Critical (Filed post-task)            |
+| **ARC Docs (Airworthiness Review Certificate)** | Compliance documents for review/renewal.                           | CAMO / Review Staff                    | Annually or before delivery/transfer  |
+| **New Aircraft Delivery Package**      | Setup of new aircraft in the system (SB/AD filter, AMP setup).                | OEM / Delivery Team / CAMO             | Once (Before entry into service)      |
