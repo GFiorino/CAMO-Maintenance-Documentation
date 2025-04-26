@@ -156,3 +156,12 @@ footer a:hover {
 .floating-menu a:hover {
   text-decoration: underline;
 }
+<style>
+ul.checklist {
+  list-style: none;
+  padding-left: 0;
+}
+.checklist input[type="checkbox"] {
+  margin-right: 8px;
+}
+</style>
