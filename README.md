@@ -15,6 +15,7 @@ The purpose of this project is to:
 - Demonstrate my ability to create documentation that supports airworthiness compliance, maintenance program management, and technical reporting workflows.
 - Show practical understanding of aviation maintenance data tracking, regulatory context (EASA), and internal CAMO procedures.
 - Provide an example of structured documentation using Markdown, suitable for both internal use and technical documentation portfolios.
+- Showcase ability to prepare practical CAMO administrative documents using Microsoft Office tools (Word and Excel).
 
 ---
 
@@ -22,6 +23,7 @@ The purpose of this project is to:
 
 - [Project Structure](#project-structure)
 - [Included Sections](#included-sections)
+- [Mock-Up CAMO Office Documents](#mock-up-camo-office-documents)
 - [Audience](#audience)
 - [How to Navigate](#how-to-navigate)
 - [License](#license)
@@ -30,7 +32,6 @@ The purpose of this project is to:
 
 ## Project Structure
 
-```
 CAMO-Maintenance-Documentation/
 ├── README.md
 ├── index.md
@@ -41,6 +42,9 @@ CAMO-Maintenance-Documentation/
 │   ├── airworthiness-directive-input.md
 │   ├── maintenance-reporting-workflow.md
 │   ├── audit-preparation-guide.md
+├── Mockup-Documentations/
+│   ├── CAMO Maintenance Compliance Summary.docx
+│   ├── Maintenance_Task_Tracker.xlsx
 ├── images/
 │   ├── aircraft-entry-table.png
 │   ├── ad-log-sample.png
@@ -48,7 +52,7 @@ CAMO-Maintenance-Documentation/
 │   ├── reporting-summary-example.png
 │   ├── audit-checklist.png
 └── LICENSE
-```
+
 
 ---
 
@@ -74,6 +78,17 @@ Covers how to prepare aircraft records and documentation for audits by authoriti
 
 ---
 
+## Mock-Up CAMO Office Documents
+
+To demonstrate practical understanding of CAMO administrative workflows, the following sample documents are included:
+
+- [CAMO Maintenance Compliance Summary (Word Document)](Mockup-Documentations/CAMO%20Maintenance%20Compliance%20Summary.docx)
+- [Maintenance Task Tracker (Excel Spreadsheet)](Mockup-Documentations/Maintenance_Task_Tracker.xlsx)
+
+These mock-ups simulate real-world tasks such as maintenance tracking, compliance monitoring, and airworthiness documentation management.
+
+---
+
 ## Audience
 
 This guide is written for:
@@ -89,6 +104,7 @@ This guide is written for:
 1. Start from [`index.md`](index.md) or go directly into the `/docs` folder.
 2. Each file focuses on one real-world responsibility of a CAMO Technical Administrator.
 3. Visuals are stored in the `/images` directory and referenced inside the Markdown content where relevant.
+4. Practical Word and Excel mock-up documents are available in the `/Mockup-Documentations` folder.
 
 This project is structured for clarity and modularity — each doc stands on its own while forming part of a complete guide.
 
