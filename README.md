@@ -31,7 +31,7 @@ The purpose of this project is to:
 ---
 
 ## Project Structure
-
+```markdown
 CAMO-Maintenance-Documentation/
 ├── README.md
 ├── index.md
@@ -53,7 +53,7 @@ CAMO-Maintenance-Documentation/
 │   ├── audit-checklist.png
 └── LICENSE
 
-
+```
 ---
 
 ## Included Sections
